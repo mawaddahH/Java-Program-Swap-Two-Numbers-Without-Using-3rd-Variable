@@ -28,8 +28,9 @@ public class main {
 
 	            System.out.println("add the second number: ");
 	            System.err.println("You Entered INVALID input");
-
+	            
 			}
+			
 			num2=UserInput.nextInt();
 			B=num2;
 		
